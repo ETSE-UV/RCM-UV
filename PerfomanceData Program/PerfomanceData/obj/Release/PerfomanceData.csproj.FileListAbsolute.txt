@@ -1,0 +1,94 @@
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\bin\Release\NvAPIWrapper.dll
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\bin\Release\NvAPIWrapper.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\bin\Release\NvAPIWrapper.dll
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\bin\Release\NvAPIWrapper.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\bin\Release\NvAPIWrapper.dll
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\bin\Release\System.Management.Automation.dll
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\bin\Release\NvAPIWrapper.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Poweshell\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Poweshell\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Poweshell\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Poweshell\PerfomanceData\bin\Release\System.Management.Automation.dll
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Poweshell\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Poweshell\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Poweshell\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Poweshell\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Poweshell\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\System.Management.Automation.dll
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvancesMediadosMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvancesMediadosMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvancesMediadosMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvancesMediadosMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\System.Management.Automation.dll
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvancesMediadosMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvancesMediadosMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvancesMediadosMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvancesMediadosMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvancesMediadosMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\System.Management.Automation.dll
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\System.Management.Automation.dll
+D:\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
+D:\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\AvanceFinalesMayo\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\TFG\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\TFG\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\TFG\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\TFG\PerfomanceData - Juan Antonio Powershell\PerfomanceData\bin\Release\System.Management.Automation.dll
+D:\TFG\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
+D:\TFG\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\TFG\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\TFG\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\TFG\PerfomanceData - Juan Antonio Powershell\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\0-CURRO\PerfomanceData Program\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\0-CURRO\PerfomanceData Program\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\0-CURRO\PerfomanceData Program\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\0-CURRO\PerfomanceData Program\PerfomanceData\bin\Release\System.Management.Automation.dll
+D:\0-CURRO\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
+D:\0-CURRO\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\0-CURRO\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\0-CURRO\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\0-CURRO\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.pdb

@@ -1,0 +1,8 @@
+Captured information of Process Named: Chrome
+GPU Engine names: 
+
+
+CPU Usage(%), GPU Usage(%), GPU Engines use, RAM Memory(GBs)
+------------------------------------------------------------
+------------------------------------------------------------
+Average CPU %: NaN, Average GPU %: NaN, Average RAM (MBs): NaN

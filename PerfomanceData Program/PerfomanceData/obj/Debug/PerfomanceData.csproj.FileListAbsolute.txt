@@ -1,0 +1,37 @@
+C:\Users\prod\source\repos\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.csprojAssemblyReference.cache
+C:\Users\prod\source\repos\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.csproj.CoreCompileInputs.cache
+C:\Users\prod\source\repos\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.exe.config
+C:\Users\prod\source\repos\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.exe
+C:\Users\prod\source\repos\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.pdb
+C:\Users\prod\source\repos\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.exe
+C:\Users\prod\source\repos\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.pdb
+C:\Users\prod\source\repos\PerfomanceData\PerfomanceData\bin\Debug\NvAPIWrapper.dll
+C:\Users\prod\source\repos\PerfomanceData\PerfomanceData\bin\Debug\NvAPIWrapper.pdb
+C:\Users\prod\source\repos\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.csproj.CopyComplete
+C:\Users\spthermo\Downloads\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.exe.config
+C:\Users\spthermo\Downloads\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.exe
+C:\Users\spthermo\Downloads\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.pdb
+C:\Users\spthermo\Downloads\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.exe
+C:\Users\spthermo\Downloads\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.pdb
+C:\Users\spthermo\Downloads\PerfomanceData\PerfomanceData\bin\Debug\NvAPIWrapper.dll
+C:\Users\spthermo\Downloads\PerfomanceData\PerfomanceData\bin\Debug\NvAPIWrapper.pdb
+C:\Users\spthermo\Downloads\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.csprojResolveAssemblyReference.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.exe.config
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\bin\Debug\NvAPIWrapper.dll
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\bin\Debug\NvAPIWrapper.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.csproj.CopyComplete
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\Paquete\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.exe.config
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\bin\Debug\PerfomanceData.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\bin\Debug\NvAPIWrapper.dll
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\bin\Debug\NvAPIWrapper.pdb
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.csprojAssemblyReference.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.csproj.CopyComplete
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.exe
+D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.pdb
