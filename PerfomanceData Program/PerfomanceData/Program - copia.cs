@@ -1,9 +1,12 @@
 ﻿/* 
+    Main Developer: Juan Antonio De Rus Arance
+    Supervisor: Mario Montagud (mario.montagud@i2cat)
+    This is a work done at the University of Valencia (Spain), in collaboration with the i2CAT Foundation (Barcelona, Spain)
+    
+    
     This script provides performance metrics (CPU Usage(%), GPU Usage(%), Memory Usage (GBs)
     
- */
-/*
-   POWERSHELL 3.0 MUST BE INSTALLED. And a refence to System.Management.Automation.dll must be included. (This DLL is normally on <<C:\Program Files (x86)\Reference Assemblies\Microsoft\WindowsPowerShell\3.0>>)
+    POWERSHELL 3.0 MUST BE INSTALLED. And a refence to System.Management.Automation.dll must be included. (This DLL is normally on <<C:\Program Files (x86)\Reference Assemblies\Microsoft\WindowsPowerShell\3.0>>)
 */
 using System.IO;
 using System;
