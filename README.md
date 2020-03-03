@@ -13,7 +13,7 @@ git clone https://github.com/ETSE-UV/RCM-UV.git
 ### Demo video
 Watch a demo video of the tool by clicking on the picture below
 
-[![Watch the video](https://img.youtube.com/vi/CmjTk1w5Cms/maxresdefault.jpg)](https://www.youtube.com/watch?v=CmjTk1w5Cms)
+[![Watch the video](https://img.youtube.com/vi/yPMkxQbk0fE/maxresdefault.jpg)](https://www.youtube.com/watch?v=yPMkxQbk0fE)
 
 * After starting the program, we must confirm the name of the process or the program to analyze
 ![Screenshot 1](https://raw.githubusercontent.com/ETSE-UV/RCM-UV/master/Images/screenshot1.png)
