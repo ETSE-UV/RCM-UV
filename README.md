@@ -1,7 +1,8 @@
 # RCM-UV - Resources Consumption Metrics tool
 
 This software with the objective of gathering metrics related to hardware usage by single processes and multi-process programs given its name. It registers the percentage of CPU usage, the percentage of GPU usage, and the principal memory (RAM) usage and shows the values in a console in real time. When the process is finished it calculates the mean values and writes a log for future analysis.
-It has been designed to be used on Windows systems, it makes use of Windows’ PowerShell commands to gather samples of hardware usage. The compatibility with other OS hasn’t been tested yet. 
+It has been designed to be used on Windows systems, it makes use of Windows’ PowerShell commands to gather samples of hardware usage. The compatibility with other OS hasn’t been tested yet.
+
 
 ## Download 
 ```
