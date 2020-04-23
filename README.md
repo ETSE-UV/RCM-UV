@@ -12,7 +12,7 @@ git clone https://github.com/ETSE-UV/RCM-UV.git
 ## How to use
 
 ### Demo video
-Watch a demo video of the tool by clicking on the picture below
+Watch a demo video of the tool by clicking on the picture below:
 
 [![Watch the video](https://img.youtube.com/vi/yPMkxQbk0fE/maxresdefault.jpg)](https://www.youtube.com/watch?v=yPMkxQbk0fE)
 
