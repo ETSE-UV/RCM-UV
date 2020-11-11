@@ -35,3 +35,13 @@ D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Togeth
 D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.csproj.CopyComplete
 D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.exe
 D:\Archivos HDD\Juan Antonio\Universidad\Material estudio\4ºCurso\TFG\VR Together\PerfomanceData\PerfomanceData\obj\Debug\PerfomanceData.pdb
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Debug\PerfomanceData.exe.config
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Debug\PerfomanceData.exe
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Debug\PerfomanceData.pdb
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Debug\System.Management.Automation.dll
+D:\tools\PerfomanceData Program\PerfomanceData\obj\Debug\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\tools\PerfomanceData Program\PerfomanceData\obj\Debug\PerfomanceData.csproj.CopyComplete
+D:\tools\PerfomanceData Program\PerfomanceData\obj\Debug\PerfomanceData.exe
+D:\tools\PerfomanceData Program\PerfomanceData\obj\Debug\PerfomanceData.pdb
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Debug\Microsoft.PowerShell.Activities.dll
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Debug\Microsoft.PowerShell.Workflow.ServiceCore.dll

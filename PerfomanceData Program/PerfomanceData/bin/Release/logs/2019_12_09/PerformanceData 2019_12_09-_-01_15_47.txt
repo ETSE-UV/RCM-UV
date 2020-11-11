@@ -1,5 +1,0 @@
-Captured information of Process Named: Firefox
-CPU Usage(%), GPU Usage(%), GPU Engines use, RAM Memory(GBs)
-------------------------------------------------------------
-------------------------------------------------------------
-Average CPU %: NaN, Average GPU %: NaN, Average RAM (MBs): NaN

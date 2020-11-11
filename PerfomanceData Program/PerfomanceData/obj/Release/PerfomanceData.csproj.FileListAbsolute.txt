@@ -92,3 +92,14 @@ D:\0-CURRO\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.cspr
 D:\0-CURRO\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
 D:\0-CURRO\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.exe
 D:\0-CURRO\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Release\PerfomanceData.exe.config
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Release\PerfomanceData.exe
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Release\PerfomanceData.pdb
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Release\System.Management.Automation.dll
+D:\tools\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.csproj.CoreCompileInputs.cache
+D:\tools\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.csproj.CopyComplete
+D:\tools\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.exe
+D:\tools\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.pdb
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Release\Microsoft.PowerShell.Activities.dll
+D:\tools\PerfomanceData Program\PerfomanceData\bin\Release\Microsoft.PowerShell.Workflow.ServiceCore.dll
+D:\tools\PerfomanceData Program\PerfomanceData\obj\Release\PerfomanceData.csprojAssemblyReference.cache
